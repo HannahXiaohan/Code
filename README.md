@@ -1,4 +1,5 @@
-pseudocode
+# Final Project - CS677 - Xiaohan Jiang 
+
 # Import Libraries
 1. Import necessary libraries:
    - NumPy, Pandas for data handling
